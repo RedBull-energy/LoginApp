@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YYr2hU94t/+sKgbcN7PrltoN4QNgOAAUhZ6S0zxBvM71ZFTzy5kGBNS59jxWmcEddON8C0JpNvj3OHrye+cN6Q==",
+  "success": true,
+  "projectFilePath": "/Users/bulathammatov/RiderProjects/AppLogin/AppLogin/AppLogin.iOS/AppLogin.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/bulathammatov/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
